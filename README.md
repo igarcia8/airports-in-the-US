@@ -2,9 +2,7 @@
 
 This project is a map of the airports in the United States including it's territories including Puerto Rico. This map shows the locations of each airport with a pop-up feature of the location when clicked on. I used a choropleth map to show the density of airports in each state or territory. Each airport is also labeled whether they have an air traffic control tower or not.
 
-![map screengrab](/img/airportMap.png)
-
-[link to map](http://igarcia8.github.io/airports-in-the-US/index.html)
+![map screengrab](/img/airportMap.PNG)
 
 ## External Sources Used
 **Leaflet**
